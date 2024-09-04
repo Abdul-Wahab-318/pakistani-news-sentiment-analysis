@@ -39,5 +39,5 @@ The project aims to analyze the sentiment of news articles published in Pakistan
 ![NER-Chart](/ner_chart.png)
 
 ## Conclusion
-This analysis provides a snapshot of public sentiment as reflected in Pakistani news articles. The results can be used to understand how different events influence public opinion.
+This analysis provides a snapshot of the media coverage on the news. The results can be used to understand how different events influence public opinion. The consistently negative sentiments of the news can negatively influence the public, making them believe that there is no hope. It is necessary for us to stop and think for a moment and look at the bigger picture before forming any opinions. If we are constantly fed negative news then our beliefs will be negative as well. This is why it is important for us to pay close attention to what information we are consuming becasue it can subconsciously influence our thinking. 
 
