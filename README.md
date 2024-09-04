@@ -1,5 +1,5 @@
 # Sentiment Analysis on Pakistani News Articles
-This project involves performing sentiment analysis on Pakistani news articles collected over the past month (August-September 2024). The primary goal is to understand public sentiment regarding various topics and events covered in the news. A total of 800+ articles were scraped from multiple news sources, and the sentiment of each article was analyzed and was given a compound score.
+This project involves performing sentiment analysis on Pakistani news articles collected over the past month (August-September 2024). The primary goal is to understand media coverage regarding various topics and events covered in the news. A total of 800+ articles were scraped from multiple news sources, and the sentiment of each article was analyzed and was given a compound score.
 
 ## Table of Contents
 1. [Introduction](#introduction)
