@@ -11,7 +11,7 @@ This project involves performing sentiment analysis on Pakistani news articles c
 7. [Conclusion](#conclusion)
 
 ## Introduction
-The project aims to analyze the sentiment of news articles published in Pakistan to gain insights into public opinion on various issues. This analysis can help in understanding the media narrative and public mood over the past month.
+The project aims to analyze the sentiment of news articles published in Pakistan to gain insights into what is happening in the country. This analysis can help in understanding the media narrative over the past month.
 
 ## Data Collection
 - **Web Scraping:** The data was collected using web scraping techniques, leveraging libraries such as `BeautifulSoup` and `requests`.
@@ -34,6 +34,9 @@ The project aims to analyze the sentiment of news articles published in Pakistan
 - **Summary:** After grouping the articles by the date published , it was seen that out of all the days , only two days (11-8-24 and 14-8-24) had mean positive sentiment score.
 - **Visualizations:** The sentiment distribution over time was visualized using bar charts and line graphs.
 - **Insights:** It was observed that the sentiments skewed heavily towards the negative side. The most common entities in the news were Karachi , Pakistan , PTI and Balochistan in the mentioned order. This is probably due to the influx of news articles related to the cyclone closing in on Karachi , political instability due to conflict between government and opposition parties and the recent terrorist attacks in Balochistan
+
+![Sentiment Analysis Chart](/sentiment_analysis_chart.png)
+![NER-Chart](/ner_chart.png)
 
 ## Conclusion
 This analysis provides a snapshot of public sentiment as reflected in Pakistani news articles. The results can be used to understand how different events influence public opinion.
